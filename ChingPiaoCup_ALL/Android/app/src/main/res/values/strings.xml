@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">青瓢環保餐具租借系統</string>
+    <string name="title_home">借用</string>
+    <string name="title_dashboard">歸還</string>
+    <string name="title_notifications">借用紀錄</string>
+    <string name="title_activity_main_lend_log">借用紀錄</string>
+    <string name="title_activity_main_return">歸還</string>
+</resources>
